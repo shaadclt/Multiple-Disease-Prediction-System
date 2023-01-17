@@ -1,0 +1,9 @@
+# Multiple Disease Prediction System
+
+![image](https://user-images.githubusercontent.com/98437584/212870483-9de0899e-010d-454b-8ecd-81781ab52852.png)
+
+![image](https://user-images.githubusercontent.com/98437584/212870635-ee778204-7e20-42ad-87b8-f8db51ef2e9e.png)
+
+![image](https://user-images.githubusercontent.com/98437584/212870743-26e514e3-c2cf-427f-914d-d0ef1de64a53.png)
+
+There are multiple techniques in machine learning that can in a variety of industries, do predictive analytics on large amounts of data. Predictive analytics in healthcare is a difficult endeavour, but it can eventually assist practitioners in making timely decisions regarding patients' health and treatment based on massive data. Diseases like parkinsons, diabetes and heart-related diseases are causing many deaths globally but most of these deaths are due to the lack of timely check-ups of the diseases. The above problem occurs due to a lack of medical infrastructure and a low ratio of doctors to the population. The statistics clearly show the same, WHO recommended, the ratio of doctors to patients is 1:1000 whereas India's doctor-to-population ratio is 1:1456, this indicates the shortage of doctors. The diseases related to heart, brain and diabetes can cause a potential threat to mankind, if not found early. Therefore, early recognition and diagnosis of these diseases can save a lot of lives. This work is all about predicting diseases that are harmful using machine learning classification algorithms. In this work, parkinsons, heart and diabetes are included. To make this work seamless and usable by the mass public, I have made a medical test web application that makes predictions about various diseases using the concept of machine learning. In this work, my aim is to develop a disease-predicting web app that uses the concept of machine learning-based predictions about various diseases like Parkinson's Disease, Diabetes and Heart diseases.
