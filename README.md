@@ -1,4 +1,4 @@
-# Multiple Disease Prediction using Machine Learning
+# Multiple Disease Prediction System using Machine Learning
 
 ![image](https://user-images.githubusercontent.com/98437584/236606241-972c82d4-15eb-4f16-9bdd-320a9b92fcc6.png)
 
@@ -38,7 +38,7 @@ To use this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/multiple-disease-prediction.git
+git clone https://github.com/shaadclt/Multiple-Disease-Prediction-System.git
 ```
 
 2. Install the required dependencies by running:
@@ -60,7 +60,7 @@ To run the Multiple Disease Prediction web application, follow these steps:
 2. Run the following command to start the Streamlit application:
 
 ```bash
-streamlit run app.py
+streamlit run multiplediseaseprediction.py
 ```
 
 3. Access the web application by opening the provided URL in your web browser.
